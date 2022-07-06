@@ -15,13 +15,13 @@ BEGIN;
 UPDATE animals SET species = 'unspecified';
 SELECT name, species FROM animals;
 ROLLBACK;
-SETECT name, species FROM animals;
+SELECT name, species FROM animals;
 
 BEGIN;
 UPDATE animals SET species = 'digimon' WHERE name LIKE '%mon';
 UPDATE animals SET species = 'pokemon' WHERE species IS NULL;
-COMMIT;
 SELECT name, species FROM animals;
+COMMIT;
 
 BEGIN;
 DELETE FROM animals;
