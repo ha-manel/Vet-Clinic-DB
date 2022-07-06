@@ -1,31 +1,27 @@
-# curriculum-databases-projects-template
+# Vet Clinic Database
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> Using a relational database to create the data structure for a vet clinic about:
+> ⋆ animals
+> ⋆ animals' owners
+> ⋆ clinic employees
+> ⋆ visits
 
 
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
+To setup the project locally: clone the repository using:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
+```
+git clone git@github.com:ha-manel/Vet-Clinic-DB.git
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Manel Hammouche**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ha-manel](https://github.com/ha-manel)
+- Twitter: [@hamanel](https://twitter.com/ha_manel_)
+- LinkedIn: [Manel Hammouche](https://www.linkedin.com/in/manel-hammouche/)
 
 ## 🤝 Contributing
 
@@ -36,13 +32,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
