@@ -23,6 +23,12 @@ git clone git@github.com:ha-manel/Vet-Clinic-DB.git
 - Twitter: [@hamanel](https://twitter.com/ha_manel_)
 - LinkedIn: [Manel Hammouche](https://www.linkedin.com/in/manel-hammouche/)
 
+👤 **Eid Hachem**
+
+- GitHub: [@EidHachem](https://github.com/EidHachem)
+- Twitter: [@eidHachem1](https://twitter.com/@eidHachem1)
+- LinkedIn: [Eid Hachem](https://www.linkedin.com/in/eid-hachem/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
